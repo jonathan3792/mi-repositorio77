@@ -1,0 +1,9 @@
+.contenedorItem {
+    text-align: center;
+    border: 2px solid rgb(116, 211, 131);
+    margin: 3rem
+}
+
+img {
+    width: 60vw;
+}

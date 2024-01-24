@@ -1,0 +1,15 @@
+.CardProducto {
+    background-color: rgb(135, 184, 171);
+    border-radius: 12px;
+    width: 18rem;
+    padding: 1rem;
+    margin: 1rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.CardProducto img{
+    width: 150px;
+    
+}
